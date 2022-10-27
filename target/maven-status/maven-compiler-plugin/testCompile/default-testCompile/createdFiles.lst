@@ -1,3 +1,7 @@
-SeleniumCode\AT01_NavigateNTitleAssertScreenshot.class
 RunnerClass\TestRunner.class
+SeleniumCode\BeforeClassAfterClass.class
+SeleniumCode\AT01_NavigateNTitleAssertScreenshot.class
+StepDefinations\sampleTest.class
 StepDefinations\SD01_NavigateToHNwebsite.class
+SeleniumCode\AnotherTest.class
+StepDefinations\hooksLearning.class

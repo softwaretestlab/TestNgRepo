@@ -11,7 +11,7 @@ import io.cucumber.testng.AbstractTestNGCucumberTests;
                 "json:target/cucumber.json",
                 "junit:target/cucumber.xml",
                 "rerun:target/rerun.txt"},
-        tags ="@smokeTest1"
+        tags ="@smokeTest2"
 )
 
 
